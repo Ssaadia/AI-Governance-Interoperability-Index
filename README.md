@@ -180,6 +180,13 @@ A detailed source log is included in the workbook.
 * Visual communication methods for simplifying complex governance relationships
 * GitHub for project documentation and portfolio presentation
 
+## Project Documents
+
+- AI Governance Interoperability Methodology
+- Governance Indicator Framework
+- Dashboard Screenshots
+
+
 ## Author
 
 **Samina Saadia**
